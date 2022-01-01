@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dev-kiha
+- 👋 @dev-kiha
 
 <!---
 
